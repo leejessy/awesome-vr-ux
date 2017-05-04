@@ -47,7 +47,7 @@
 * [Virtual Reality Best Practices](https://docs.unrealengine.com/latest/INT/Platforms/VR/ContentSetup/index.html) from Unreal Engine
 
 ## Prototyping tools
-
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/): find already-made 3D models for prototyping 
 * [Sketchfab](https://sketchfab.com/): Upload your 3D scenes and view them in VR
 * [A-Frame](https://aframe.io/): Framework for making WebVR apps, by Mozilla
 * [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate)
